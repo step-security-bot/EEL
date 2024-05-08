@@ -137,8 +137,8 @@ EEL.parse(`
 // single-line comment
 /* also single-line comment :(
 -- more single-line comment
--- set str hello, world!
--- set num 1
+// tba: set str hello, world!
+// tba: set num 1
 print str
 print num
 // this should print "3 is 3!!!"
